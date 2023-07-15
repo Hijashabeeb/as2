@@ -1,0 +1,151 @@
+body{
+    margin: 0px;
+}
+.add{
+    background-color: #0e3051;
+    height: 25px;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    background-color: #333333;
+    height: 60px;
+    display:flex ;
+    justify-content: space-between;
+    padding-right: 20px;
+}
+.leftlogo img{
+    width: 105px;
+    height: 100px;
+}
+.navbarleft{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
+    
+}
+.rightlogo:hover
+{
+    background-color: black;
+    
+}
+.navbarright{
+    display: flex;
+    color: white;
+    font-family: 'Ysabeau Office', sans-serif;
+
+}
+.rightlogo{
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin-right: 30px;
+    
+}
+.navbarright img{
+    width: 100px;
+}
+.category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 30px;
+}
+.catagoryiteams {
+    text-align: center;
+    color: #0e3051;
+    font-family: 'Roboto', sans-serif;
+}
+.sbody{
+    color: #0e3051;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    
+
+}
+.simage{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.midline { 
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.midd img{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.image3 h3{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #0e3051;
+}
+.h1tag{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Roboto', sans-serif;
+    color: #0e3051;
+
+}
+.p{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-family: 'Ysabeau Office', sans-serif;
+    
+}
+.top-collection-sub{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    color: #0e3051;
+    font-family: 'Montserrat', sans-serif;
+}
+.image4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+}
+.undernavlogo img{
+    width: 120px;
+    padding-left: 100px;
+    
+
+}
+.head li{
+    
+    align-items: center;
+    justify-content: center;
+    display: inline;
+    padding-left: 20px;
+
+}
+.undernavmain{
+    display: flex;
+    
+}
+.search{
+    padding-left:50px ;
+    padding-top: 10px;
+}
+.search input{
+    border: 0px;
+    border-bottom: 1px solid;
+    padding-top: 10px;
+    width: 250px;
+}
